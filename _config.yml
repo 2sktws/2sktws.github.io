@@ -1,0 +1,13 @@
+# 网站全局SEO配置（百度+谷歌双适配）
+title: 大方瑞碧家电维修｜全国24小时空调 中央空调 热水器 洗衣机 冰箱维修
+description: 大方瑞碧家电维修经营部，全国统一报修电话：4OO 811==5288，全国24小时上门维修服务，专注大金、日立、麦克维尔、约克、开利中央空调、家用空调、热水器、洗衣机、冰箱、集成灶、燃气灶维修
+keywords: 全国家电维修,中央空调维修,空调维修,热水器维修,洗衣机冰箱维修,集成灶燃气灶维修,大金日立约克开利麦克维尔空调维修
+author: 大方瑞碧家电维修经营部
+url: https://2sktws.github.io
+baseurl: ""
+markdown: kramdown
+timezone: Asia/Shanghai
+encoding: utf-8
+# 谷歌SEO友好配置
+lang: zh-CN
+exclude: [README.md]
