@@ -1,3 +1,15 @@
+## 🚗 北京同城快速上门通道
+
+如果您位于北京，需要以下品牌维修服务，请直接点击进入对应专线：
+
+| 品牌 | 服务入口 | 响应时间 |
+| :--- | :--- | :--- |
+| **大金 DAIKIN** | **[点击进入维修中心](https://2sktws.github.io/beijing-daikin-repairs/)** | 30分钟 |
+| **三菱 MITSUBISHI** | [点击进入维修中心](https://2sktws.github.io/shanghai-mitsubishi-repairs/) | 30分钟 |
+| **日立 HITACHI** | [点击进入维修中心](https://2sktws.github.io/beijing-hitachi-repairs/)** | 30分钟 |
+| **格力/美的/海尔** | [点击进入维修中心](https://2sktws.github.io/beijing-daikin-repairs/) | 30分钟 |
+
+> **提示**：新站点包含详细的故障代码解析、真实维修案例及收费标准，建议您优先访问新站获取最新信息。
 # 技术文章汇总
 ## 空调维修
 - [成都TCL中央空调上门维修电话24小时热线全国售后服务中心（2026推出）](成都TCL中央空调上门维修电话24小时热线全国售后服务中心（2026推出）.md)
