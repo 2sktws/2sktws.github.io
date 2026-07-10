@@ -11,3 +11,4 @@ encoding: utf-8
 # 谷歌SEO友好配置
 lang: zh-CN
 exclude: [README.md]
+permalink: /:slug.html
