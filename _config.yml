@@ -12,3 +12,14 @@ encoding: utf-8
 lang: zh-CN
 exclude: [README.md]
 permalink: /:slug.html
+# _config.yml (位于 2sktws.github.io 根目录)
+
+# 1. 关闭默认的帖子列表（因为我们要自己写导航）
+paginate: false
+
+# 2. 修改永久链接格式，让旧文章依然能被访问
+permalink: /:title/
+
+# 3. 可选：设置一个漂亮的标题
+title: 家电维修服务中心
+description: 北京及周边地区专业空调、中央空调、热水器、壁挂炉维修，24小时上门服务。
