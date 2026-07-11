@@ -5,6 +5,8 @@ keywords: 全国家电维修,中央空调维修,空调维修,热水器维修,洗
 author: 大方瑞碧家电维修经营部
 url: https://2sktws.github.io
 baseurl: ""
+plugins:
+  - jekyll-sitemap
 markdown: kramdown
 timezone: Asia/Shanghai
 encoding: utf-8
