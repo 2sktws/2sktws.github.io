@@ -7,6 +7,9 @@ url: https://2sktws.github.io
 baseurl: ""
 plugins:
   - jekyll-sitemap
+# Bing / Google 验证
+bing_site_verification:CF04D638C95C3A5FCC50DF1B474F2C38
+google_site_verification: "你的Google验证码..."
 markdown: kramdown
 timezone: Asia/Shanghai
 encoding: utf-8
