@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://2sktws.github.io/sitemap.xml
+
+# Bing 专用
+User-agent: bingbot
+Allow: /
