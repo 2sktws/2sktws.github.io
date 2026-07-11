@@ -1,30 +1,37 @@
-# 网站全局SEO配置（百度+谷歌双适配）
-title: 大方瑞碧家电维修｜全国24小时空调 中央空调 热水器 洗衣机 冰箱维修
+# ==========================================
+# 网站全局 SEO 配置（百度 + 谷歌 + Bing）
+# ==========================================
+
+title: "大方瑞碧家电维修｜全国24小时空调/中央空调/热水器/洗衣机/冰箱维修"
 description: "大方瑞碧家电维修经营部，全国统一报修电话：400-811-5288，全国24小时上门维修服务，专注大金、日立、麦克维尔、约克、开利中央空调、家用空调、热水器、洗衣机、冰箱、集成灶、燃气灶维修"
 keywords: "全国家电维修,中央空调维修,空调维修,热水器维修,洗衣机冰箱维修,集成灶燃气灶维修,大金日立约克开利麦克维尔空调维修"
-author: 大方瑞碧家电维修经营部
-url: https://2sktws.github.io
+author: "大方瑞碧家电维修经营部"
+
+url: "https://2sktws.github.io"
 baseurl: ""
+
+# 编码与时区
+encoding: utf-8
+timezone: Asia/Shanghai
+lang: zh-CN
+
+# Markdown
+markdown: kramdown
+
+# 永久链接（重要：只写一次）
+permalink: /:slug.html
+
+# 排除文件（不渲染）
+exclude:
+  - README.md
+  - llms.txt
+  - robots.txt
+
+# 插件
 plugins:
   - jekyll-sitemap
-# Bing / Google 验证
-bing_site_verification:CF04D638C95C3A5FCC50DF1B474F2C38
-google_site_verification: "你的Google验证码..."
-markdown: kramdown
-timezone: Asia/Shanghai
-encoding: utf-8
-# 谷歌SEO友好配置
-lang: zh-CN
-exclude: [README.md]
-permalink: /:slug.html
-# _config.yml (位于 2sktws.github.io 根目录)
+  - jekyll-seo-tag
 
-# 1. 关闭默认的帖子列表（因为我们要自己写导航）
-paginate: false
-
-# 2. 修改永久链接格式，让旧文章依然能被访问
-permalink: /:slug.html
-
-# 3. 可选：设置一个漂亮的标题
-title: 家电维修服务中心
-description: 北京及周边地区专业空调、中央空调、热水器、壁挂炉维修，24小时上门服务。
+# 搜索引擎验证
+bing_site_verification: "CF04D638C95C3A5FCC50DF1B474F2C38"
+# google_site_verification: "你的Google验证码"
